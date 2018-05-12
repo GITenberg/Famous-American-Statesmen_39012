@@ -1,0 +1,35 @@
+_repo: Famous-American-Statesmen_39012
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bolton, Sarah Knowles
+    aliases:
+    - Bolton, Mrs. C. E.
+    - Bolton, Sarah K.
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '4216'
+    url: http://www.gutenberg.org/2009/agents/4216
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Knowles_Bolton
+description: ''
+gutenberg_issued: '2012-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39012'
+  lccn: 04022920
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Biography'
+- !lcc 'E151'
+- !lcsh 'Statesmen -- United States'
+tableOfContents: George Washington -- Benjamin Franklin -- Thomas Jefferson -- Alexander
+  Hamilton -- Andrew Jackson -- Daniel Webster -- Henry Clay -- Charles Sumner --
+  Ulysses S. Grant -- James A. Garfield.
+title: Famous American Statesmen
+url: http://www.gutenberg.org/ebooks/39012
